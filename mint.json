@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Resources",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -32,7 +32,7 @@
     },
     {
       "name": "Blog",
-      "url": "api-reference"
+      "url": "essentials"
     }
   ],
   "anchors": [
